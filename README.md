@@ -18,25 +18,17 @@ Welcome to my GitHub profile. I'm a student building my foundation in cloud comp
 
 ## 🛠️ Tech Stack
 
-### Languages
+## Languages
 
-<img src="https://cdn.simpleicons.org/c" height="18"/> C • 
-<img src="https://cdn.simpleicons.org/python" height="18"/> Python • 
-<img src="https://cdn.simpleicons.org/openjdk" height="18"/> Java • 
-<img src="https://cdn.simpleicons.org/mysql" height="18"/> SQL
+C • Python • Java • SQL
 
-### Databases
+## Databases
 
-<img src="https://cdn.simpleicons.org/mysql" height="18"/> MySQL • 
-<img src="https://cdn.simpleicons.org/mongodb" height="18"/> MongoDB • 
-<img src="https://cdn.simpleicons.org/oracle" height="18"/> Oracle APEX
+MySQL • MongoDB • Oracle APEX
 
-### Tools & Platforms
+## Tools & Platforms
 
-<img src="https://cdn.simpleicons.org/github" height="18"/> GitHub • 
-<img src="https://cdn.simpleicons.org/visualstudiocode" height="18"/> VS Code • 
-<img src="https://cdn.simpleicons.org/ubuntu" height="18"/> Ubuntu • 
-<img src="https://cdn.simpleicons.org/amazonaws" height="18"/> AWS (Learning)
+GitHub • VS Code • Ubuntu • AWS (Learning)
 
 ---
 
