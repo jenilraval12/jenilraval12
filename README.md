@@ -1,6 +1,6 @@
-# Hi, I'm Jenil 👋
+# Hi, I'm Jenil Raval 👋
 
-**India 🇮🇳 | Aspiring DevOps Engineer | Cloud Enthusiast | AWS Learner**
+**India 🇮🇳 | BTech CE Undergrad | Aspiring DevOps Engineer | Cloud Enthusiast | AWS Learner**
 
 Welcome to my GitHub profile. I'm a student building my foundation in cloud computing, automation, and modern infrastructure. I enjoy learning by creating practical projects and continuously improving my technical skills.
 
@@ -20,15 +20,23 @@ Welcome to my GitHub profile. I'm a student building my foundation in cloud comp
 
 ### Languages
 
-<img src="https://cdn.simpleicons.org/c" height="18"/> C • <img src="https://cdn.simpleicons.org/python" height="18"/> Python • Java • SQL
+<img src="https://cdn.simpleicons.org/c" height="18"/> C • 
+<img src="https://cdn.simpleicons.org/python" height="18"/> Python • 
+<img src="https://cdn.simpleicons.org/openjdk" height="18"/> Java • 
+<img src="https://cdn.simpleicons.org/mysql" height="18"/> SQL
 
 ### Databases
 
-<img src="https://cdn.simpleicons.org/mysql" height="18"/> MySQL • MongoDB • Oracle APEX
+<img src="https://cdn.simpleicons.org/mysql" height="18"/> MySQL • 
+<img src="https://cdn.simpleicons.org/mongodb" height="18"/> MongoDB • 
+<img src="https://cdn.simpleicons.org/oracle" height="18"/> Oracle APEX
 
 ### Tools & Platforms
 
-GitHub • VS Code • Ubuntu • AWS (Learning)
+<img src="https://cdn.simpleicons.org/github" height="18"/> GitHub • 
+<img src="https://cdn.simpleicons.org/visualstudiocode" height="18"/> VS Code • 
+<img src="https://cdn.simpleicons.org/ubuntu" height="18"/> Ubuntu • 
+<img src="https://cdn.simpleicons.org/amazonaws" height="18"/> AWS (Learning)
 
 ---
 
@@ -79,4 +87,4 @@ A Discord bot project designed to manage server activities, automate tasks, and 
 
 ## ✨ Motto
 
-**Learn consistently. Build practically. Grow daily.**
+**Ideate -> Research -> Execute -> Evaluate -> Grow**
