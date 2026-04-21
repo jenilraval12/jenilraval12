@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenilraval12&label=Profile%20views&color=0e75b6&style=flat" alt="jenilraval12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenilraval12" alt="jenilraval12" /></a> </p>
-
 - 🌱 I’m currently learning **Linux to build a strong Cloud foundation**
 
 - 📫 How to reach me **ravaljenil6@gmail.com**
