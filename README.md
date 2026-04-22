@@ -32,26 +32,6 @@ GitHub • VS Code • Ubuntu • AWS (Learning)
 
 ---
 
-## 📂 Featured Projects
-
-### 🎵 Mood Based Music Recommender
-
-A project that recommends music based on mood and preferences.
-
-### 🏸 Badminton Tournament Organizer
-
-A system to manage badminton tournaments, fixtures, and participants.
-
-### ⚡ Quick Quiz Duel
-
-An interactive quiz-based project focused on quick competition and learning.
-
-### 🤖 THEBOIS_Manager (Discord Bot)
-
-A Discord bot project designed to manage server activities, automate tasks, and enhance community engagement.
-
----
-
 ## 🏆 Certifications
 
 * AWS Cloud Practitioner Essentials
