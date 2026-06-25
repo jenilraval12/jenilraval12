@@ -12,7 +12,7 @@ Welcome to my GitHub profile. I'm a student building my foundation in cloud comp
 * ☁️ Primary Cloud Platform: AWS
 * 🌱 Currently Learning: Linux & Cloud Fundamentals
 * 🧠 Interested In: Automation, Infrastructure, CI/CD, Scalable Systems
-* 📈 Academic Achievement: **8.89 SGPA** in 1st Semester
+* 📈 Academic Achievement: **9.11 CGPA** in 1st Year
 
 ---
 
